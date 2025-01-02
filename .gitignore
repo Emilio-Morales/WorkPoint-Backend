@@ -1,0 +1,28 @@
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.suo
+.vscode/
+.idea/
+.vs/
+
+# Logs
+*.log
+logs/
+
+# Configuration Files
+appsettings.*.json
+appsettings.json
+
+# Azure Configuration
+.azure/
+
+# Dependency Caches
+node_modules/
+
+# IDE-Specific
+.DS_Store
+Thumbs.db
